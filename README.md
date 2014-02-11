@@ -1,2 +1,5 @@
-lecture
-=======
+======  Lecture ======
+
+Probability and statistics
+
+======================
